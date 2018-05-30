@@ -4,5 +4,5 @@
 - 驗證碼自動輸入
 - dockerize
 
-# getPassCodeImages.py
+getPassCodeImages.py
 - 需安裝firefox、geckodriver(v0.19.1)
