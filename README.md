@@ -1,8 +1,8 @@
-# autoTHSR（開發中）
-台灣高鐵THSR自動化訂票程式
-- 使用者資訊自動輸入
-- 驗證碼自動輸入
-- dockerize
-
+# autoTHSR
+- 台灣高鐵THSR自動化訂票程式
+- - -
+- 爬取驗證碼圖片，並紀錄圖片大小、編號
+```
+# 需安裝firefox、geckodriver(v0.19.1)
 getPassCodeImages.py
-- 需安裝firefox、geckodriver(v0.19.1)
+```
